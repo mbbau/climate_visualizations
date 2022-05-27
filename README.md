@@ -1,7 +1,8 @@
 # Climate Visualizations from NASA's data
 
 In this repo, I made several visualizations following the examples made by Pat Schloss in his youtube channel [Riffomonas Project](https://www.youtube.com/c/RiffomonasProject/featured).
-All the data from this work can be found in the following link: [NASA's Data](https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv).
+
+All the data for this work can be found in the following link: [NASA's Data](https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv).
 
 # First Visualization: Temperature index plot.
 
